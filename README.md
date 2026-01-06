@@ -1,47 +1,121 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hey 👋 I'm Sarowar 
 
-###
+I'm a Computer Science student who likes building **backend systems**, breaking things to understand them, and experimenting with **GenAI and AI agents**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agsaru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agsaru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I care more about *how things work* than just making them work.
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 👨‍💻 A bit about me
 
-###
+- 🎓 B.Tech CSE (2023–2027)
+- 🔧 Mostly into **backend engineering**
+- 🤖 Exploring **Generative AI & agent-based systems**
+- 🧠 I practice DSA regularly (not perfect, but consistent)
+- 🛠 I prefer building real projects over copy-paste tutorials
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+I enjoy writing clean APIs, thinking about system design, and slowly leveling up as an engineer.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🧰 Tech I work with
 
-###
+**Languages**
+- Python, C++, JavaScript
 
-<br clear="both">
+**Backend**
+- FastAPI
+- Node.js, Express
+- REST APIs, authentication, cookies & sessions
+- WebSockets (real-time stuff)
 
-###
+**Databases**
+- PostgreSQL, MySQL  
+- SQLAlchemy, Sequelize
+
+**GenAI**
+- LLM-based apps
+- Prompt engineering
+- AI agents & tool calling
+- RAG-style systems (learning + experimenting)
+
+**Tools**
+- Git & GitHub
+- Linux
+- Docker (basics)
+- Streamlit
+- Postman
+
+---
+
+## 📌 Projects I'm proud of
+
+### 🔹 Repo2Readme
+A developer tool that **automatically generates clean, structured README files** from a repository.
+
+- Analyzes project structure
+- Converts codebase → human-readable documentation
+- Built to save developers time and improve repo quality
+
+This project reflects how I think about **developer experience**, not just features.
+
+---
+
+### 🔹 JoluMate (GenAI Backend Project)
+A backend-first GenAI system built using **FastAPI**.
+
+- Authentication & user management
+- Conversation and message handling
+- Clean API design
+- Designed with future **streaming & AI agents** in mind
+
+This is my main playground for backend + GenAI ideas.
+
+---
+
+### 🔹 URL Shortener
+A backend service built with **Node.js + PostgreSQL**.
+
+- URL shortening & redirection
+- Visit tracking
+- Clean folder structure and database design
+
+Simple idea, but done properly.
+
+---
+
+### 🔹 Machine Learning Projects
+- House price prediction with full ML pipeline
+- Vehicle price prediction using ensemble models
+- Focus on **EDA, feature engineering, and evaluation**
+
+---
+
+## 📚 What I'm currently learning
+
+- Backend system design (the real kind)
+- AI agents: planning, memory, tools
+- How LLMs actually work under the hood
+- Core CS concepts that make backend engineers strong
+
+---
+
+## 🤝 Open to
+
+- Backend / SWE internships
+- Serious side projects
+- Open-source collaboration
+- Talking about backend, GenAI, or system design
+
+---
+
+## 📫 Reach me here
+
+- 💼 LinkedIn: [Sarowar Jahan Biswas](https://www.linkedin.com/in/sarowar-jahan-biswas/) 
+- 📧 Email: sjbsaru@gmail.com  
+
+---
+
+If you’re building something cool or want to collaborate — feel free to reach out 🙂
+
+
