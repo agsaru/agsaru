@@ -55,7 +55,7 @@ I enjoy writing clean APIs, thinking about system design, and slowly leveling up
 A developer tool that **automatically generates clean, structured README files** from a repository.
 
 - Analyzes project structure
-- Converts codebase → human-readable documentation
+- Converts codebase to human-readable documentation
 - Built to save developers time and improve repo quality
 
 This project reflects how I think about **developer experience**, not just features.
