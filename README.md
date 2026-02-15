@@ -12,7 +12,7 @@ I care more about *how things work* than just making them work.
 - 🎓 B.Tech CSE (2023–2027)
 - 🔧 Mostly into **backend engineering**
 - 🤖 Exploring **Generative AI & agent-based systems**
-- 🧠 I practice DSA regularly (not perfect, but consistent)
+- 🧠 I practice DSA regularly 
 - 🛠 I prefer building real projects over copy-paste tutorials
 
 I enjoy writing clean APIs, thinking about system design, and slowly leveling up as an engineer.
