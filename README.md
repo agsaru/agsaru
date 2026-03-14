@@ -1,123 +1,156 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-# Hey 👋 I'm Sarowar 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-I'm a Computer Science student who likes building **backend systems**, breaking things to understand them, and experimenting with **GenAI and AI agents**.
+# Hey 👋 I'm Sarowar
 
-I care more about *how things work* than just making them work.
+I am a Computer Science student who likes building **backend systems** and learning how things work internally.
+
+Sometimes I break things while experimenting, but that helps me understand systems better.  
+Recently I am also exploring **GenAI and AI agent based applications**.
 
 ---
 
-## 👨‍💻 A bit about me
+## 👨‍💻 About me
 
-- 🎓 B.Tech CSE (2023–2027)
-- 🔧 Mostly into **backend engineering**
-- 🤖 Exploring **Generative AI & agent-based systems**
-- 🧠 I practice DSA regularly 
-- 🛠 I prefer building real projects over copy-paste tutorials
+- 🎓 B.Tech CSE (2023 – 2027)
+- 🔧 Interested mainly in **backend development**
+- 🤖 Learning about **Generative AI and AI agents**
+- 🧠 I practice **DSA** regularly
+- 🛠 I like building **real projects instead of only tutorials**
 
-I enjoy writing clean APIs, thinking about system design, and slowly leveling up as an engineer.
+I enjoy designing APIs, working with databases, and slowly improving my software engineering skills.
 
 ---
 
-## 🧰 Tech I work with
+## 🧰 Tech Stack
 
-**Languages**
-- Python, C++, JavaScript
+### Languages
+- Python
+- C++
+- JavaScript
+- SQL
 
-**Backend**
+### Backend Development
 - FastAPI
-- Node.js, Express
-- REST APIs, authentication, cookies & sessions
-- WebSockets (real-time stuff)
+- Node.js
+- Express.js
+- REST API design
+- Authentication (cookies, sessions, basic auth flows)
 
-**Databases**
-- PostgreSQL, MySQL  
-- SQLAlchemy, Sequelize
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLAlchemy
+- Sequelize
+- Database schema design
 
-**GenAI**
-- LLM-based apps
+### GenAI / AI Systems
+- LLM based applications
 - Prompt engineering
-- AI agents & tool calling
-- RAG-style systems (learning + experimenting)
+- AI agents
+- Tool calling
+- Experimenting with RAG style systems
+- Building backend services for AI apps
 
-**Tools**
-- Git & GitHub
-- Linux
-- Docker (basics)
-- Streamlit
+### Data & ML (project experience)
+- Pandas
+- NumPy
+- Scikit-learn
+- Data cleaning & preprocessing
+- Feature engineering
+- Model evaluation
+- EDA (Exploratory Data Analysis)
+
+### DevOps / Infrastructure
+- Git
+- GitHub
+- GitHub Actions (CI workflows)
+- Docker (basic)
+- Linux environment
+- Kubernetes (basic understanding)
+- Argo Workflows (learning / experimentation)
+
+### Tools
+- VS Code
 - Postman
+- Jupyter Notebook
+- Streamlit
+---
+
+## 📌 Projects
+
+### Repo2Readme
+
+A small developer tool that **generates README files automatically** from a repository.
+
+Features:
+- Reads project structure
+- Converts codebase information into documentation
+- Helps developers quickly create clean README files
 
 ---
 
-## 📌 Projects I'm proud of
+### JoluMate (GenAI Backend Project)
 
-### 🔹 Repo2Readme
-A developer tool that **automatically generates clean, structured README files** from a repository.
+A **backend focused GenAI system** built using FastAPI.
 
-- Analyzes project structure
-- Converts codebase to human-readable documentation
-- Built to save developers time and improve repo quality
+Main features:
+- User authentication and management
+- Conversation and message APIs
+- Clean backend structure
+- Designed so AI agents and streaming can be added later
 
-This project reflects how I think about **developer experience**, not just features.
-
----
-
-### 🔹 JoluMate (GenAI Backend Project)
-A backend-first GenAI system built using **FastAPI**.
-
-- Authentication & user management
-- Conversation and message handling
-- Clean API design
-- Designed with future **streaming & AI agents** in mind
-
-This is my main playground for backend + GenAI ideas.
+This project is where I experiment with **backend + GenAI ideas**.
 
 ---
 
-### 🔹 URL Shortener
-A backend service built with **Node.js + PostgreSQL**.
+### URL Shortener
 
-- URL shortening & redirection
-- Visit tracking
-- Clean folder structure and database design
+A backend service built with **Node.js and PostgreSQL**.
 
-Simple idea, but done properly.
+Features:
+- Shorten long URLs
+- Redirect system
+- Track visits
+- Simple but clean backend structure
 
 ---
 
-### 🔹 Machine Learning Projects
+### Machine Learning Projects
+
+Some ML projects I worked on earlier:
+
 - House price prediction with full ML pipeline
 - Vehicle price prediction using ensemble models
-- Focus on **EDA, feature engineering, and evaluation**
 
----
-
-## 📚 What I'm currently learning
-
-- Backend system design (the real kind)
-- AI agents: planning, memory, tools
-- How LLMs actually work under the hood
-- Core CS concepts that make backend engineers strong
+Main focus was **EDA, feature engineering, and model evaluation**.
 
 ---
 
 ## 🤝 Open to
 
-- Backend / SWE internships
-- Serious side projects
-- Open-source collaboration
-- Talking about backend, GenAI, or system design
+- Software Engineering / Backend internships
+- Interesting side projects
+- Open source collaboration
 
 ---
 
-## 📫 Reach me here
+## 📫 Contact
 
-- 💼 LinkedIn: [Sarowar Jahan Biswas](https://www.linkedin.com/in/sarowar-jahan-biswas/) 
-- 📧 Email: sjbsaru@gmail.com  
+- 💼 LinkedIn: [Sarowar Jahan Biswas](https://www.linkedin.com/in/sarowar-jahan-biswas/)
+- 📧 Email: sjbsaru@gmail.com
 
 ---
 
-If you’re building something cool or want to collaborate — feel free to reach out 🙂
-
-
+If you are building something interesting or want to collaborate, feel free to reach out 🙂
 
