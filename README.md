@@ -14,24 +14,28 @@
 
 # Hi there, I'm Sarowar Jahan Biswas 👋
 
-I'm a Computer Science engineering student at Jalpaiguri Government Engineering College, and I really enjoy building software that solves actual problems. I spend most of my time working on backend development and AI, but I also love competitive programming and contributing to open-source projects.
+I am a B.Tech Computer Science Engineering student at Jalpaiguri Government Engineering College (2023–2027). I enjoy building backend systems and Generative AI applications that solve real-world problems. I am actively looking for opportunities to showcase and grow my skills, especially in open-source and backend development.
 
-## 🚀 What I'm Up To
-- **Coding in:** Python, SQL, and Markdown.
-- **Building with:** FastAPI, PostgreSQL, LangChain, and LangGraph.
-- **Open Source:** I actively contribute to open source projects.
-- **Problem Solving:** I regularly practice on LeetCode, Codeforces, and CodeChef.
+## 🚀 Skills & Technologies
+* **Languages:** Python, SQL, C, C++
+* **Backend & AI:** FastAPI, LangChain, LangGraph
+* **Databases:** PostgreSQL, MySQL
+* **DevOps & Tools:** Git, Docker, Kubernetes, Linux, GitHub Actions
 
-## 🛠️ Some Things I've Built
-- **JoluMate:** An AI-powered study assistant. It lets you upload PDFs and chat with them using a multi-agent RAG system.
-- **Repo2Readme:** A Python CLI tool that reads your local or GitHub repository code and automatically writes a clean, structured README file for it.
-- **Pro URL Shortener:** A fast, scalable URL shortener built from the ground up using FastAPI, PostgreSQL, and Hashids.
+## 🌟 Open Source & Problem Solving
+* **Open Source:** I actively contribute to the community and have merged 20+ Pull Requests to projects including Netflix/metaflow and chaos-kitten.
+* **Competitive Programming:** I have solved 500+ Data Structures and Algorithms problems. My maximum platform ratings are 1744 on LeetCode, 1503 on CodeChef, and 1125 on Codeforces.
+
+## 🛠️ Featured Projects
+* **JoluMate:** An AI-powered study assistant built with FastAPI and PostgreSQL. It uses a stateful LLM workflow (LangGraph) and a RAG pipeline to process PDFs and enable semantic search for accurate responses.
+* **Repo2Readme:** A Python CLI tool that scans local and GitHub repositories to automatically generate structured README files. It uses an agentic workflow powered by LangChain and LLM APIs to generate and review the documentation.
+* **URL Shortener:** A fast REST API developed with FastAPI and PostgreSQL/SQLAlchemy. It handles URL creation, redirection, and analytics with collision-free short code generation.
 
 ## 📫 Let's Connect!
-I'm always happy to chat about open source, AI workflows, or backend architecture. Feel free to reach out or check out my repositories below!
+I'm always happy to chat about open source, AI workflows, or backend architecture. Feel free to reach out!
 
-- 💼 LinkedIn: [Sarowar Jahan Biswas](https://www.linkedin.com/in/sarowar-jahan-biswas/)
-- 📧 Email: sjbsaru@gmail.com
+* 💼 LinkedIn: [linkedin.com/in/sarowar-jahan-biswas](https://www.linkedin.com/in/sarowar-jahan-biswas)
+* 📧 Email: sjbsaru@gmail.com
 
 ---
 
