@@ -19,7 +19,7 @@ I'm a Computer Science engineering student at Jalpaiguri Government Engineering 
 ## 🚀 What I'm Up To
 - **Coding in:** Python, SQL, and Markdown.
 - **Building with:** FastAPI, PostgreSQL, LangChain, and LangGraph.
-- **Open Source:** I actively contribute to repositories like Netflix's Metaflow and I'm currently preparing for GSoC 2026. 
+- **Open Source:** I actively contribute to open source projects.
 - **Problem Solving:** I regularly practice on LeetCode, Codeforces, and CodeChef.
 
 ## 🛠️ Some Things I've Built
