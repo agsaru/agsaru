@@ -32,7 +32,7 @@ I am a B.Tech Computer Science Engineering student at Jalpaiguri Government Engi
 * **URL Shortener:** A fast REST API developed with FastAPI and PostgreSQL/SQLAlchemy. It handles URL creation, redirection, and analytics with collision-free short code generation.
 
 ## 📫 Let's Connect!
-I'm always happy to chat about open source, AI workflows, or backend architecture. Feel free to reach out!
+Feel free to reach out!
 
 * 💼 LinkedIn: [linkedin.com/in/sarowar-jahan-biswas](https://www.linkedin.com/in/sarowar-jahan-biswas)
 * 📧 Email: sjbsaru@gmail.com
