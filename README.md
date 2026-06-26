@@ -25,14 +25,14 @@ I am a B.Tech Computer Science Engineering student at Jalpaiguri Government Engi
 * **DevOps & Tools:** Git, GitHub, Docker, Kubernetes, GitHub Actions, Linux, Postman
 * **Core Concepts:** DSA, OOPS, DBMS, OS, CN
 
-## 🌟 Open Source & Problem Solving
-* **Open Source:** I actively contribute to the community and have merged 20+ Pull Requests to projects including Netflix/metaflow and chaos-kitten.
-* **Competitive Programming:** I have solved 500+ Data Structures and Algorithms problems. My maximum platform ratings are 1744 on LeetCode, 1503 on CodeChef, and 1125 on Codeforces.
-
 ## 🛠️ Featured Projects
-* **JoluMate:** An AI-powered study assistant built with FastAPI and PostgreSQL. It uses a stateful LLM workflow (LangGraph) and a RAG pipeline to process PDFs and enable semantic search for accurate responses.
-* **Repo2Readme:** A Python CLI tool that scans local and GitHub repositories to automatically generate structured README files. It uses an agentic workflow powered by LangChain and LLM APIs to generate and review the documentation.
-* **URL Shortener:** A fast REST API developed with FastAPI and PostgreSQL/SQLAlchemy. It handles URL creation, redirection, and analytics with collision-free short code generation.
+* **Repo2Readme:** A Python CLI tool published to PyPI that scans local or GitHub repositories to automatically generate `README.md` files, filtering out irrelevant files. It uses an AI agent workflow powered by LangChain and LangGraph to analyze source code, generate the README, and iteratively improve it based on feedback. Built using Click, GitHub Actions, and LLM APIs (Groq, Gemini).
+* **JoluMate:** A GenAI chatbot developed using FastAPI and Streamlit with JWT-based authentication. It features LangGraph and PostgreSQL to manage chat history and store conversations. I integrated a RAG pipeline that reads PDFs and uses pgvector for semantic search, allowing the chatbot to accurately answer document-based questions.
+* **URL Shortener:** A REST API built using FastAPI and PostgreSQL to generate unique short links using Hashids, with support for custom URL aliases. Added Redis caching, rate limiting, and background tasks to improve API performance and track URL visit analytics. Deployed via Docker.
+
+## 🌟 Open Source & Problem Solving
+* **Open Source:** I actively contribute to the community, merging 15+ pull requests and achieving Rank 28 in the Apertre 3.0 Open Source Program.
+* **Competitive Programming:** I have solved 500+ Data Structures and Algorithms problems across LeetCode and GeeksforGeeks. My maximum contest ratings are 1744 on LeetCode, 1503 on CodeChef, and 1125 on Codeforces.
 
 
 ### 🌟 Open Source Contributions
