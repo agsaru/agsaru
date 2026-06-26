@@ -19,10 +19,11 @@
 I am a B.Tech Computer Science Engineering student at Jalpaiguri Government Engineering College (2023–2027). I enjoy building backend systems and Generative AI applications that solve real-world problems. I am actively looking for opportunities to showcase and grow my skills, especially in open-source and backend development.
 
 ## 🚀 Skills & Technologies
-* **Languages:** Python, SQL, C, C++
-* **Backend & AI:** FastAPI, LangChain, LangGraph
-* **Databases:** PostgreSQL, MySQL
-* **DevOps & Tools:** Git, Docker, Kubernetes, Linux, GitHub Actions
+* **Programming Languages:** Python, SQL, C, C++
+* **Frameworks & Libraries:** FastAPI, LangChain, LangGraph, pytest
+* **Databases:** PostgreSQL, MySQL, Redis, pgvector
+* **DevOps & Tools:** Git, GitHub, Docker, Kubernetes, GitHub Actions, Linux, Postman
+* **Core Concepts:** DSA, OOPS, DBMS, OS, CN
 
 ## 🌟 Open Source & Problem Solving
 * **Open Source:** I actively contribute to the community and have merged 20+ Pull Requests to projects including Netflix/metaflow and chaos-kitten.
